@@ -22,23 +22,23 @@
         },
         {
             "id": "cffkpbalmllkdoenhmdmpbkajipdjfam",
-            "description": "Brave Ad Block Updater"
+            "description": "OneVN Ad Block Updater"
         },
         {
             "id": "afalakplffnnnlkncjhbmahjfjhmlkal",
-            "description": "Brave Local Data Files Updater"
+            "description": "OneVN Local Data Files Updater"
         },
         {
             "id": "cpoalefficncklhjfpglfiplenlpccdb",
-            "description": "Brave Tor Client Updater (Windows)"
+            "description": "OneVN Tor Client Updater (Windows)"
         },
         {
             "id": "cldoidikboihgcjfkhdeidbpclkineef",
-            "description": "Brave Tor Client Updater (Mac)"
+            "description": "OneVN Tor Client Updater (Mac)"
         },
         {
             "id": "biahpgbdmdkfgndcmfiipgcebobojjkp",
-            "description": "Brave Tor Client Updater (Linux)"
+            "description": "OneVN Tor Client Updater (Linux)"
         },
         {
             "id": "fdjamakpfbbddfjaooikfcpapjohcfmg",
@@ -86,23 +86,23 @@
         },
         {
             "id": "aapnijgdinlhnhlmodcfapnahmbfebeb",
-            "description": "Brave Automation Extension"
+            "description": "OneVN Automation Extension"
         },
         {
             "id": "oofiananboodjbbmdelgdommihjbkfag",
-            "description": "Brave HTTPS Everywhere Updater"
+            "description": "OneVN HTTPS Everywhere Updater"
         },
         {
             "id": "naccapggpomhlhoifnlebfoocegenbol",
-            "description": "Test ID: Brave Default Ad Block Updater"
+            "description": "Test ID: OneVN Default Ad Block Updater"
         },
         {
             "id": "dlpmaigjliompnelofkljgcmlenklieh",
-            "description": "Test ID: Brave Regional Ad Block Updater (9852EFC4-99E4-4F2D-A915-9C3196C7A1DE)"
+            "description": "Test ID: OneVN Regional Ad Block Updater (9852EFC4-99E4-4F2D-A915-9C3196C7A1DE)"
         },
         {
             "id": "eclbkhjphkhalklhipiicaldjbnhdfkc",
-            "description": "Test ID: Brave Local Data Files Updater"
+            "description": "Test ID: OneVN Local Data Files Updater"
         },
         {
             "id": "kpbdcmcgkedhpbcpfndimofjnefgjidd",
@@ -110,11 +110,11 @@
         },
         {
             "id": "bhlmpjhncoojbkemjkeppfahkglffilp",
-            "description": "Test ID: Brave HTTPS Everywhere Updater"
+            "description": "Test ID: OneVN HTTPS Everywhere Updater"
         },
         {
             "id": "ngicbhhaldfdgmjhilmnleppfpmkgbbk",
-            "description": "Test ID: Brave Tor Client Updater"
+            "description": "Test ID: OneVN Tor Client Updater"
         },
         {
             "id": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
@@ -124,7 +124,7 @@
     "blacklist": [
         {
             "id": "mlklomjnahgiddgfdgjhibinlfibfffc",
-            "description": "Used for tests, corresponds to brave/test/data/should-be-blocked-extension."
+            "description": "Used for tests, corresponds to onevn/test/data/should-be-blocked-extension."
         }
     ]
 }
